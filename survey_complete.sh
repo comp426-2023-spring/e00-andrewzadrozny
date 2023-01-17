@@ -2,4 +2,4 @@
 
 EXAMCODE=NULL
 
-echo ${EXAMCODE}
+echo ${321856147}
